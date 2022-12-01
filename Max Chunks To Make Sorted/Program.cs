@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 // example = 3 0 1 2 5 4 8 6 7
-
+// https://www.youtube.com/watch?v=XZueXHOhO5E
 public class Solution
 {
   public int MaxChunksToSorted(int[] arr)
